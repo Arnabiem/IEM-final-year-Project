@@ -2,7 +2,7 @@
 
 <h1>Movie Recommendation System</h1>
 
-This is a project for a movie recommendation system, developed using Python programming language. The project uses collaborative filtering algorithm to recommend movies to users based on their movie ratings and preferences.
+This is a project for a movie recommendation system, developed using Python programming language. The project uses content based filtering algorithm to recommend movies to users based on their movie ratings and preferences.
 
 <h2>Getting Started</h2>
 
